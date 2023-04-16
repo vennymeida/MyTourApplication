@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyTourApplication</string>
+    <string name="tours_name">Wisata di Indonesia</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Blitar Park</item>
+        <item>Batu Night Spectaculer</item>
+        <item>Gunung Bromo</item>
+        <item>Candi Borobudur</item>
+        <item>Candi Prambanan</item>
+        <item>Jatim Park 3</item>
+        <item>Lawang Sewu</item>
+        <item>Malioboro</item>
+        <item>Monas</item>
+        <item>Pantai Pandawa</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Destinasi wisata Blitar Park memang merupakan tempat wisata baru yang berada di Blitar. Tempat wisata ini baru di resmikan pada tanggal 20 Mei 2019 lalu. Blitar Park menawarkan berbagai wahanan permainan seru serta spot foto unik yang siap memanjakan para pengunjung.</item>
+        <item>Batu Night Spectacular adalah sebuah lokawisata yang berada di Kota Batu, Jawa Timur. BNS hanya beroperasi pada malam hari. BNS menggabungkan konsep pusat perbelanjaan, permainan, olahraga, dan hiburan di dalamnya. BNS berada dalam grup Jawa Timur Park Group.</item>
+        <item>Wisatawan yang berkunjung ke Gunung Bromo akan disambut oleh pemandangan yang indah. Salah satu hal yang terkenal dari Gunung Bromo adalah golden sunrise-nya, pasalnya, Gunung Bromo dinobatkan sebagai tempat yang menawarkan pemandangan matahari terbit terbaik di Pulau Jawa</item>
+        <item>Candi Borobudur merupakan destinasi wisata unggulan atau menjadi prioritas bagi sektor pariwisata di Kabupaten Magelang, Jawa Tengah (Jateng). Meski demikian, di sekitar Candi Borobudur juga terdapat tempat wisata yang menarik untuk dikunjungi.</item>
+        <item>Candi Prambanan merupakan candi Hindu yang terbesar di Indonesia. Sampai saat ini belum dapat dipastikan kapan candi ini dibangun dan atas perintah siapa, namun kuat dugaan bahwa Candi Prambanan dibangun sekitar pertengahan abad ke-9 oleh raja dari Wangsa Sanjaya, yaitu Raja Balitung Maha Sambu.</item>
+        <item>Jatim Park 3 atau Jawa Timur Park 3 merupakan theme park keren yang wajib kamu kunjungi ketika berada di Kota Batu, Jawa Timur.</item>
+        <item>Lawang Sewu adalah gedung bersejarah milik PT Kereta Api Indonesia (Persero) yang awalnya digunakan sebagai Kantor Pusat perusahaan kereta api swasta Nederlandsch-Indische Spoorweg Maatschappij (NISM). Gedung Lawang Sewu dibangun secara bertahap di atas lahan seluas 18.232 m2</item>
+        <item>Malioboro Yogyakarta merupakan tempat belanja yang menjadi ikon dari kota yang dijuluki sebagai pelajar ini. disana terdapat beberapa toko yang menjual oleh-oleh menarik khas dari kota Jogja. Nah jika anda kebetulan memilih hotel di Yogyakarta dekat Malioboro, anda bisa sesering mungkin datang ke sini dan siang malam yang anda lewati akan selalu terasa ramai dan berkesan.</item>
+        <item>Salah satu bangunan ikonik Indonesia, tepatnya di Ibu Kota adalah Tugu Monas Jakarta.Monumen Nasional (Monas) adalah monumen peringatan setinggi 132 meter (433 kaki) yang terletak tepat di tengah Lapangan Medan Merdeka, Jakarta Pusat.</item>
+        <item>Pantai Pandawa adalah satu dari sekian destinasi wisata alam populer yang berada di Provinsi Bali. Wisatawan yang berkunjung akan disambut panorama yang memanjakan mata ditambah suasana tenang dan khas Pulau Dewata.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/blitarpark</item>
+        <item>@drawable/bns</item>
+        <item>@drawable/bromo</item>
+        <item>@drawable/candiborobudur</item>
+        <item>@drawable/candiprambanan</item>
+        <item>@drawable/jatimpark</item>
+        <item>@drawable/lawangsewu</item>
+        <item>@drawable/malioboro</item>
+        <item>@drawable/pantaipandawa</item>
+    </integer-array>
+</resources>
